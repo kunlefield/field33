@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\myfirstsystm\bin\Debug\net5.0\myfirstsystm.exe
+C:\Users\USER\Desktop\myfirstsystm\bin\Debug\net5.0\myfirstsystm.deps.json
+C:\Users\USER\Desktop\myfirstsystm\bin\Debug\net5.0\myfirstsystm.runtimeconfig.json
+C:\Users\USER\Desktop\myfirstsystm\bin\Debug\net5.0\myfirstsystm.runtimeconfig.dev.json
+C:\Users\USER\Desktop\myfirstsystm\bin\Debug\net5.0\myfirstsystm.dll
+C:\Users\USER\Desktop\myfirstsystm\bin\Debug\net5.0\ref\myfirstsystm.dll
+C:\Users\USER\Desktop\myfirstsystm\bin\Debug\net5.0\myfirstsystm.pdb
+C:\Users\USER\Desktop\myfirstsystm\obj\Debug\net5.0\myfirstsystm.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\myfirstsystm\obj\Debug\net5.0\myfirstsystm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\myfirstsystm\obj\Debug\net5.0\myfirstsystm.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\myfirstsystm\obj\Debug\net5.0\myfirstsystm.AssemblyInfo.cs
+C:\Users\USER\Desktop\myfirstsystm\obj\Debug\net5.0\myfirstsystm.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\myfirstsystm\obj\Debug\net5.0\myfirstsystm.dll
+C:\Users\USER\Desktop\myfirstsystm\obj\Debug\net5.0\ref\myfirstsystm.dll
+C:\Users\USER\Desktop\myfirstsystm\obj\Debug\net5.0\myfirstsystm.pdb
+C:\Users\USER\Desktop\myfirstsystm\obj\Debug\net5.0\myfirstsystm.genruntimeconfig.cache
